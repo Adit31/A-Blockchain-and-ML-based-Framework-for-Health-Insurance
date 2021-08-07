@@ -1,1 +1,6 @@
-# A-Blockchain-based-Machine-Learning-Framework-for-Health-Insurance-System
+## A Blockchain-based Framework for Fast and Cost-Effective Health Insurance System
+
+### <a name = "Description"> </a> Description
+This repository is the source code for the paper "A Blockchain-based Framework for Fast and Cost-Effective Health Insurance System".
+
+**Abstract:** Health Insurance is crucial for each person, bearing in mind the increasing medical costs. The current insurance system is very expensive, as thousands of people pay the premiums and very few take the claims. Moreover, the claim settlement process is excessively lengthy, making it very tedious. In this article, we focus on making a fast and cost-effective health insurance system based on blockchain technology. Blockchain is capable of removing all third-party organisations by forming a smart contract, making the entire process more smooth, secure, and efficient. The contract settles the claim on documents submitted by the claimant. We have used a regression model for computing the premiums optimally based on the total amount claimed under the current policy tenure, along with several other factors. A random forest classifier is applied for predicting the risk that helps in the computation of risk-rated premium rebate for the policyholders for their next term of insurance.
