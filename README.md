@@ -9,3 +9,14 @@ The major contributions of our work are:
 1. We will create a peer-to-peer network of hospitals and policyholders that will be bound in a smart contract.
 2. Ridge Regression will be used to predict the premium. Claims will be sent directly by the admitting hospital, which will be approved by the smart contract.
 3. If claims are less than the rebate, the premium will be calculated according to the risk and available balance in the contract.  Risk will be predicted with the help of a random forest classifier. If the amount in the contract is sufficient for predicted claims, then a rebate will be given to all policyholders based on their predicted risk.
+
+---
+
+### <a name = "Citation"> </a> Citation
+```
+@article{adit2021blockchain,
+  author = {},
+  title = {},
+  year = {}
+}
+```
