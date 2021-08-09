@@ -14,9 +14,11 @@ The major contributions of our work are:
 
 ### <a name = "Citation"> </a> Citation
 ```
-@article{adit2021blockchain,
-  author = {},
-  title = {},
-  year = {}
+@article{anubhav2021blockchain,
+  author = {Anubhav Elhence*, Adit Goyal*, Vinay Chamola, Biplab Sikdar, and Hyun Thi Tha Binh},
+  title = {A Blockchain-based Framework for Fast and Cost-Effective Health Insurance System},
+  journal = {},
+  month = {},
+  year = {2021}
 }
 ```
