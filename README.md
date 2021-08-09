@@ -12,6 +12,12 @@ The major contributions of our work are:
 
 ---
 
+### <a name = "Proposed Model"> </a> Proposed Model
+
+![Proposed Model]()
+
+---
+
 ### <a name = "Citation"> </a> Citation
 ```
 @article{anubhav2021blockchain,
